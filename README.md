@@ -1,7 +1,4 @@
-https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/ce654fc0-38d6-48c5-a452-1fca0d1a1d99
----
-https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/6bfcdf16-769b-4080-8210-9ccc6b5343e3
-# Arduino-Morse-code-decode-and-encode
+ # Arduino-Morse-code-decode-and-encode
 使用Arduino將摩斯密碼進行加解碼，參考:[Morse-decode-encode](<https://www.tinkercad.com/things/5j9R1J0DAa9>)
 ## 如何使用?
 * ### Arduino接線配置
@@ -16,6 +13,11 @@ https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/11992283
     * 在單詞後留一個較長的空格。
     * 嘗試使按壓和釋放乾淨利落。
   ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/eb417670-a2d7-4c62-aadd-bb264973aa33)
+
+
+https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/ce654fc0-38d6-48c5-a452-1fca0d1a1d99  
+
+https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/fafaaa13-41d3-482a-a7c1-66e24d74a46a 
 
 
 
