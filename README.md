@@ -1,4 +1,4 @@
-
+https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/ce654fc0-38d6-48c5-a452-1fca0d1a1d99
 https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/6bfcdf16-769b-4080-8210-9ccc6b5343e3
 # Arduino-Morse-code-decode-and-encode
 使用Arduino將摩斯密碼進行加解碼，參考:[Morse-decode-encode](<https://www.tinkercad.com/things/5j9R1J0DAa9>)
