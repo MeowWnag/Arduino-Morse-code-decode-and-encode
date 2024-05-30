@@ -1,5 +1,5 @@
 # Arduino-Morse-code-decode-and-encode
-使用Arduino將摩斯密碼進行加解碼
+使用Arduino將摩斯密碼進行加解碼，參考:[Morse-decode-encode](<https://www.tinkercad.com/things/5j9R1J0DAa9>)
 ## 如何使用?
 * ### Arduino接線配置
   ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/a24e7ba3-05a4-4208-b9b7-a4c271881687)
