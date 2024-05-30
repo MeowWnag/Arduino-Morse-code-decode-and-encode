@@ -13,6 +13,12 @@
     * 在單詞後留一個較長的空格。
     * 嘗試使按壓和釋放乾淨利落。
   ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/eb417670-a2d7-4c62-aadd-bb264973aa33)
+https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/0155fa72-df44-4f88-99c9-68988113cd3c
+https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/fafaaa13-41d3-482a-a7c1-66e24d74a46a
+
+
+
+
 
 
 
