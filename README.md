@@ -1,5 +1,23 @@
  # Arduino-Morse-code-decode-and-encode
 使用Arduino將摩斯密碼進行加解碼，參考:[Morse-decode-encode](<https://www.tinkercad.com/things/5j9R1J0DAa9>)
+![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/a9aebf7b-ea4b-4d36-b6f3-1434dcf1326b)
+---
+## 準備素材
+* Arduino UNO*1  
+  ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/e9cac600-b345-48c8-9f7d-a6517c5d42ea)
+* Breadboard(麵包板)*1  
+  ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/2d9f01dd-8f72-4f42-8878-3fafd1ac2265)
+* Pushbutton switch *1  
+  ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/3e2eb675-823a-4b66-b908-762e87c02b86)
+* LED*1  
+ ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/1e3bc764-1d62-4e78-b078-9686077ecb0c)
+* Buzzer*1  
+  ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/96b53d38-32f4-43c6-8b32-7ae559a24c18)
+* Jumper Wires*6  
+  ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/4a54b5d4-fbe6-40cd-a242-3b71094844c1)
+* 電阻歐姆330*1  
+![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/1f6c2888-4b08-47da-9da7-5a606ad2f5df)
+--- 
 ## 如何使用?
 * ### Arduino接線配置
   ![image](https://github.com/MeowWnag/Arduino-Morse-code-decode-and-encode/assets/119922838/a24e7ba3-05a4-4208-b9b7-a4c271881687)
